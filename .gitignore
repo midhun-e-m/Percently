@@ -1,0 +1,41 @@
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Logs ###
+*.log
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Environment ###
+.env
+.env.*
+
+### Temporary Files ###
+*.tmp
+*.swp
+
+### Generated ###
+dependency-reduced-pom.xml

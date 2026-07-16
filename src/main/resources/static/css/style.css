@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(135deg,#0d6efd,#6f42c1);
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:Arial,sans-serif;
+}
+
+.calculator{
+    width:700px;
+    max-width:95%;
+    background:white;
+    padding:45px;
+    border-radius:20px;
+    box-shadow:0 15px 40px rgba(0,0,0,.25);
+}
+
+h1{
+    color:#0d6efd;
+    font-weight:bold;
+}
+
+button{
+    width:100%;
+}
+
+#answer{
+    color:#198754;
+    font-size:60px;
+    font-weight:bold;
+}
+
+.form-control{
+    height:55px;
+    font-size:20px;
+    text-align:center;
+}
+
+.btn{
+    height:55px;
+    font-size:20px;
+}
